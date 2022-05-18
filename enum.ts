@@ -1,8 +1,9 @@
+//? Enums are lists of constants
 enum CardinalDirections {
   North = 1,
   East = 10,
   South = 11,
-  West = 4,
+  West = 5,
 }
 
 // logs 1 since we initialized the first value to something other than '0'
