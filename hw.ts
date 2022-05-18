@@ -1,1 +1,2 @@
-console.log("Hello Words;,gsdfld!");
+let firstName: string = "Dylan";
+console.log(firstName);
