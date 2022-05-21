@@ -5,7 +5,7 @@
 # ts-node {file-name}
 
 complie file to JS:
-# tsc <file name >
+# tsc {file name} 
 
 # https://www.w3schools.com/typescript/typescript_intro.php
 
