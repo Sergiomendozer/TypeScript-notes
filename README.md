@@ -1,5 +1,5 @@
 # npm install -g typescript
-# npx tsc
+# npx tsc {file-name}
 # or 
 # npm install -g ts-node
 # ts-node {file-name}
